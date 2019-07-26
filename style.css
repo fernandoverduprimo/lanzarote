@@ -11,6 +11,6 @@ body {
 background-color:red;
 }
 
-.navbar-brand .navbar .nav-item{
+.navbar-brand .navbar .nav-item li {
 color: Aquamarine;
 }
