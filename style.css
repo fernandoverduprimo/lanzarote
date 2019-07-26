@@ -15,6 +15,6 @@ background-color:red;
 color: Aquamarine;
 }
 
-#navbarNav > ul.navbar-nav > li.nav-item > a.nav-link {
+a {
 color: Aquamarine;
 }
