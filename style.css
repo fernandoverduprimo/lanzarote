@@ -14,3 +14,7 @@ background-color:red;
 .navbar-brand .navbar .nav-item {
 color: Aquamarine;
 }
+
+#navbarNav > ul.navbar-nav > li.nav-item > a.nav-link {
+color: Aquamarine;
+}
