@@ -16,6 +16,29 @@ color:rgb(55,71,79);
 color: Aquamarine;
 }
 
+
 a {
 color: Aquamarine;
 }
+
+a:hover {
+color: rgb(215, 240, 232);
+font-weight:bold;
+
+
+}
+
+h1:hover {
+    color: rgb(55, 71, 79);
+    
+    font-weight:bold;
+    
+    }
+
+
+    p:hover {
+        color: rgb(55, 71, 79);
+        
+        font-weight:bold;
+        
+        }
